@@ -35,7 +35,11 @@ These sequences all show stable Δ-helix formation in AlphaFold2 predictions. Δ
 
 ## MD Conditions
 
-All MD simulations were performed using GROMACS 2023 with TIP3P water and CHARMM36m force field. Full output data are available in `/md/`.
+All MD simulations were performed using GROMACS 2023 with TIP3P water and CHARMM36m force field. 
+Due to file size constraints, full molecular dynamics (MD) simulation data are not hosted directly in this repository.
+You can access all MD simulation output files via the following Google Drive link:https://drive.google.com/drive/u/0/folders/1EuZO2_6k7cipLn5AJPWUeAOJC3vAir9_
+This includes .xtc, .tpr, .gro, and related files for Δ14 100ns and 50ns (extreme conditions).
+If you encounter any issues or need further data, please contact the author.
 
 ## License
 
@@ -44,6 +48,10 @@ All materials are released under the following license:
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 You are free to use, share, and modify under non-commercial terms.
 See `LICENSE.txt` for details.
+
+##Note
+This project presents preliminary research findings. The Δ-helix structures and simulation results have not yet undergone formal peer review and should be interpreted accordingly.
+
 
 ## Author
 
