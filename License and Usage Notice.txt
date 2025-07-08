@@ -1,0 +1,7 @@
+License and Usage Notice
+All peptide sequences, structure designs, and theoretical definitions of the Δhelix (including Δ12, Δ14, and Δ30) described in this document are original intellectual products developed and analyzed by the author.
+•	Commercial use, redistribution, or derivative work based on these materials is strictly prohibited without explicit permission from the author.
+•	Academic use for research, education, or publication is freely permitted, provided that proper citation of this document and the author’s name is included.
+•	The term “Δhelix” and the associated structure theory were originally defined and published on July 8, 2025.
+Author: Rintaro Nagai
+Date: July 8, 2025
