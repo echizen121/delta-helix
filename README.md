@@ -27,8 +27,8 @@ This repository presents a novel class of artificial helical peptides, collectiv
 
 ## Key Sequences
 
-- Δ12: `TTRPSDSYGTPTTGN`
-- Δ14: `TTRPSDSYGTPTTGNA`
+- Δ12: `TRPSDSFGTPT`
+- Δ14: `TTRPSDSYGTPTGNP`
 - Δ30: `TTRPSDSYGTPTTGNAAS TTRPSDSYGTPTTGNAA`
 
 These sequences all show stable Δ-helix formation in AlphaFold2 predictions. Δ14 in particular was validated via 100ns MD simulation and extreme condition simulation (350K, 3 atm), showing high structural resilience.
